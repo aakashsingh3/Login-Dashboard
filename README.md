@@ -54,15 +54,6 @@ A comprehensive full-stack web application featuring secure user authentication,
   <img src="images/5.png" alt="Components" width="180"/>
 </p>
 
-<p align="center">
-  <b>Login</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Register</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Forgot Password</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Dashboard</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Components</b>
-</p>
-
-
 ## Author
 
 [Aakash Singh] - [https://www.linkedin.com/in/aakashsingh3/] - [aakashsinghsky3@gmail.com]
