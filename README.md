@@ -1,6 +1,6 @@
-# MERN Authentication & Productivity Platform
+# MERN Authentication & Utility Platform
 
-A comprehensive full-stack web application featuring secure user authentication, Google OAuth integration, and productivity tools.
+A comprehensive full-stack web application featuring secure user authentication, Google OAuth integration, and utility tools.
 
 ## Features
 
