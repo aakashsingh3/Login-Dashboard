@@ -81,13 +81,15 @@ CLIENT_URL=http://localhost:3000
 ```
 routes/
 ├── auth/
-│ ├── index.js # Route mounting
-│ ├── login.js # Login/logout
-│ ├── register.js # User registration
-│ ├── profile.js # Profile management
-│ ├── password.js # Password operations
-│ ├── verification.js # Email verification
-│ └── oauth.js # Google OAuth
+│ | ├── index.js # Route mounting
+│ | ├── login.js # Login/logout
+│ | ├── register.js # User registration
+│ | ├── profile.js # Profile management
+│ | ├── password.js # Password operations
+│ | ├── verification.js # Email verification
+│ | ├── tokens.js # token verification
+│ | └── oauth.js # Google OAuth
+| └── index.js
 ├── middleware/
 │ └── auth.js # JWT authentication
 ├── models/
