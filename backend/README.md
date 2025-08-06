@@ -2,7 +2,7 @@
 
 RESTful API server for authentication and user management.
 
-## 🚀 Features
+## Features
 
 - **User Authentication** (Register, Login, Logout)
 - **Google OAuth 2.0** integration
@@ -11,7 +11,7 @@ RESTful API server for authentication and user management.
 - **JWT Token Management** with refresh tokens
 - **Rate Limiting** and security middleware
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Node.js & Express.js
 - MongoDB with Mongoose
@@ -19,14 +19,14 @@ RESTful API server for authentication and user management.
 - Nodemailer for emails
 - bcrypt for password hashing
 
-## 📦 Installation
+## Installation
 
 ```
 cd backend
 npm install
 ```
 
-## 🔧 Environment Variables
+## Environment Variables
 
 Create `.env` file:
 ```
@@ -56,7 +56,7 @@ CLIENT_URL=http://localhost:3000
 ```
 
 
-## 📁 API Endpoints
+## API Endpoints
 
 ### Authentication
 - `POST /api/auth/register` - User registration
@@ -76,7 +76,7 @@ CLIENT_URL=http://localhost:3000
 ### OAuth
 - `POST /api/auth/google/token` - Google OAuth login
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 routes/
@@ -96,7 +96,7 @@ routes/
 └── email.js # Email utilities
 ```
 
-## 🔐 Security Features
+## Security Features
 
 - JWT token authentication
 - Password hashing with bcrypt

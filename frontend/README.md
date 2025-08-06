@@ -2,7 +2,7 @@
 
 Modern React application with authentication and productivity tools.
 
-## 🚀 Features
+## Features
 
 - **Authentication UI** (Login, Register, Password Reset)
 - **Google OAuth** integration
@@ -11,7 +11,7 @@ Modern React application with authentication and productivity tools.
 - **Password Generator** tool
 - **Currency Converter** with live rates
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - React 18+ with hooks
 - Vite for build tooling
@@ -19,14 +19,14 @@ Modern React application with authentication and productivity tools.
 - Context API for state management
 - React Router for navigation
 
-## 📦 Installation
+## Installation
 
 ```
 cd frontend
 npm install
 ```
 
-## 🔧 Environment Variables
+## Environment Variables
 
 Create `.env` file:
 
@@ -35,7 +35,7 @@ VITE_GOOGLE_CLIENT_ID=your-google-client-id
 
 
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 src/
@@ -47,7 +47,7 @@ src/
 ```
 
 
-## 🔗 API Integration
+## API Integration
 
 The frontend communicates with the backend API at `/api` endpoints for authentication and data management.
 
